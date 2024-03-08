@@ -1,0 +1,15 @@
+body{
+    padding:20px;
+}
+.titulo{
+    text-align: center;
+    font-weight: bold;
+    color: rgb(100, 150, 255);
+    background-color: rgb(0, 255, 234);
+    width: 30%;
+}
+.boton{
+    background-color: rgb(0, 238, 255);
+    color: white;
+    width: 30%;
+}
